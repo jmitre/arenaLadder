@@ -1,0 +1,3 @@
+Key: ezhmufv23ckvbnvak4gdnhgamdayp9p8
+Secret: HWHvHj8RvtCXEHzkjrvY9avwW8KPrwbx
+https://us.api.battle.net/wow/leaderboard/3v3?locale=en_US&jsonp=true&apikey=ezhmufv23ckvbnvak4gdnhgamdayp9p8

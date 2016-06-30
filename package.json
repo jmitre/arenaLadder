@@ -1,0 +1,25 @@
+{
+  "name": "w4d4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rank.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "protractor": "^3.3.0",
+    "rewire": "^2.5.1"
+  },
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
